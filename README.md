@@ -14,7 +14,9 @@ Install requirements
 pip install -r requirement.txt
 ```
 # Training and Testing
-
+```
+python3.8 main.py
+```
 # citation
 If you find ETSformer useful, please consider citing:
 ```javascript
